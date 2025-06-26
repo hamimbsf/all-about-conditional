@@ -26,6 +26,12 @@
 - ছোট ছোট সমস্যার সমাধান কিভাবে করা যায়
 
 ---
+## 🧑‍💻 Author
+
+**Hamim Hossain**
+Beginner-Friendly JavaScript Educator 🇧🇩
+📘 Portfolio: [hamimibnhannan.netlify.app](https://hamimibnhannan.netlify.app)
+📘 Blog Series: Coming soon...
 
 ## 💡 Example Snippet
 
@@ -34,9 +40,3 @@ let amount = 500;
 let discount = amount > 1000 ? "২০%" : amount > 500 ? "১০%" : "৫%";
 console.log(`আপনার ডিসকাউন্ট হলো ${discount}`);
 
-## 🧑‍💻 Author
-
-**Hamim Hossain**
-Beginner-Friendly JavaScript Educator 🇧🇩
-📘 Portfolio: [hamimibnhannan.netlify.app](https://hamimibnhannan.netlify.app)
-📘 Blog Series: Coming soon...
