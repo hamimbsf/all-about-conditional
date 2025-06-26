@@ -3,7 +3,7 @@ let unit = Number(prompt("Enter electricity unit: "))
 
 let amount = 0
 
-if (isNaN(unit) && unit < 0) {
+if (isNaN(unit) || unit < 0) {
   console.log("Invalid input");
 } if (unit > 400) {
   let restUnit = unit - 400

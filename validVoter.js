@@ -1,4 +1,4 @@
-// age calc
+// valid voter
 
 let age = Number(prompt("Enter your age:"))
 
